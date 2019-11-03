@@ -12,4 +12,3 @@ public class Application {
 	Application app = new Application();
     }
 }
-
